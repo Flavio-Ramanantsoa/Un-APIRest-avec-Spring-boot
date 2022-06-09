@@ -19,4 +19,4 @@ You can create, read, update and delete an user who have these attributes:
 #### To get user by id: http://localhost:8080/user/id?id=1 (integer)
 #### To delete user by if: http://localhost:8080/user/delete?id=1 (integer)
 
-## Dependancies: Spring Web, JPA, MySqlDriver  
+## Dependencies: Spring Web, JPA, MySqlDriver  
